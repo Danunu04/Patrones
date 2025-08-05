@@ -1,0 +1,1 @@
+El sistema permite recorrer todos los tramos de una ruta compuesta, sin que el cliente sepa cuántos hay ni cómo están organizados.

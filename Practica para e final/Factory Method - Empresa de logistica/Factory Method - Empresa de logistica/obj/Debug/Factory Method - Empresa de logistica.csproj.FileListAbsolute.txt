@@ -1,0 +1,7 @@
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Factory Method - Empresa de logistica\Factory Method - Empresa de logistica\bin\Debug\Factory Method - Empresa de logistica.exe.config
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Factory Method - Empresa de logistica\Factory Method - Empresa de logistica\bin\Debug\Factory Method - Empresa de logistica.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Factory Method - Empresa de logistica\Factory Method - Empresa de logistica\bin\Debug\Factory Method - Empresa de logistica.pdb
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Factory Method - Empresa de logistica\Factory Method - Empresa de logistica\obj\Debug\Factory Method - Empresa de logistica.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Factory Method - Empresa de logistica\Factory Method - Empresa de logistica\obj\Debug\Factory Method - Empresa de logistica.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Factory Method - Empresa de logistica\Factory Method - Empresa de logistica\obj\Debug\Factory Method - Empresa de logistica.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Factory Method - Empresa de logistica\Factory Method - Empresa de logistica\obj\Debug\Factory Method - Empresa de logistica.pdb

@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Observer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D415BEE-864B-4EC7-81FD-422314A18910}|Observer\\Observer.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\completo\\observer\\observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D415BEE-864B-4EC7-81FD-422314A18910}|Observer\\Observer.csproj|solutionrelative:observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D415BEE-864B-4EC7-81FD-422314A18910}|Observer\\Observer.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\completo\\observer\\observer\\trenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D415BEE-864B-4EC7-81FD-422314A18910}|Observer\\Observer.csproj|solutionrelative:observer\\trenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D415BEE-864B-4EC7-81FD-422314A18910}|Observer\\Observer.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\completo\\observer\\observer\\estacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D415BEE-864B-4EC7-81FD-422314A18910}|Observer\\Observer.csproj|solutionrelative:observer\\estacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D415BEE-864B-4EC7-81FD-422314A18910}|Observer\\Observer.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\completo\\observer\\observer\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D415BEE-864B-4EC7-81FD-422314A18910}|Observer\\Observer.csproj|solutionrelative:observer\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D415BEE-864B-4EC7-81FD-422314A18910}|Observer\\Observer.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\completo\\observer\\observer\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D415BEE-864B-4EC7-81FD-422314A18910}|Observer\\Observer.csproj|solutionrelative:observer\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Observer\\Observer\\Observer.cs",
+              "RelativeDocumentMoniker": "Observer\\Observer.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Observer\\Observer\\Observer.cs",
+              "RelativeToolTip": "Observer\\Observer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:21:48.812Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trenes.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Observer\\Observer\\Trenes.cs",
+              "RelativeDocumentMoniker": "Observer\\Trenes.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Observer\\Observer\\Trenes.cs",
+              "RelativeToolTip": "Observer\\Trenes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:24:39.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estacion.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Observer\\Observer\\Estacion.cs",
+              "RelativeDocumentMoniker": "Observer\\Estacion.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Observer\\Observer\\Estacion.cs",
+              "RelativeToolTip": "Observer\\Estacion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:23:29.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "subject.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Observer\\Observer\\subject.cs",
+              "RelativeDocumentMoniker": "Observer\\subject.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Observer\\Observer\\subject.cs",
+              "RelativeToolTip": "Observer\\subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:21:02.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Observer\\Observer\\Program.cs",
+              "RelativeDocumentMoniker": "Observer\\Program.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Observer\\Observer\\Program.cs",
+              "RelativeToolTip": "Observer\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADwvzUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:20:20.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

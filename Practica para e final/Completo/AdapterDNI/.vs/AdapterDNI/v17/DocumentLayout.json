@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C1C3DA-FAEA-4E06-BDB2-F9F5408BF789}|AdapterDNI\\AdapterDNI.csproj|C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\adapterdni\\registrointernacionaladapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C1C3DA-FAEA-4E06-BDB2-F9F5408BF789}|AdapterDNI\\AdapterDNI.csproj|solutionrelative:adapterdni\\registrointernacionaladapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C1C3DA-FAEA-4E06-BDB2-F9F5408BF789}|AdapterDNI\\AdapterDNI.csproj|C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\adapterdni\\registronacional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C1C3DA-FAEA-4E06-BDB2-F9F5408BF789}|AdapterDNI\\AdapterDNI.csproj|solutionrelative:adapterdni\\registronacional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C1C3DA-FAEA-4E06-BDB2-F9F5408BF789}|AdapterDNI\\AdapterDNI.csproj|C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\adapterdni\\registronacionaladapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C1C3DA-FAEA-4E06-BDB2-F9F5408BF789}|AdapterDNI\\AdapterDNI.csproj|solutionrelative:adapterdni\\registronacionaladapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C1C3DA-FAEA-4E06-BDB2-F9F5408BF789}|AdapterDNI\\AdapterDNI.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\completo\\adapterdni\\adapterdni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C1C3DA-FAEA-4E06-BDB2-F9F5408BF789}|AdapterDNI\\AdapterDNI.csproj|solutionrelative:adapterdni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C1C3DA-FAEA-4E06-BDB2-F9F5408BF789}|AdapterDNI\\AdapterDNI.csproj|C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\adapterdni\\registrointernacional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C1C3DA-FAEA-4E06-BDB2-F9F5408BF789}|AdapterDNI\\AdapterDNI.csproj|solutionrelative:adapterdni\\registrointernacional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C1C3DA-FAEA-4E06-BDB2-F9F5408BF789}|AdapterDNI\\AdapterDNI.csproj|C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\adapterdni\\idocumentovalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C1C3DA-FAEA-4E06-BDB2-F9F5408BF789}|AdapterDNI\\AdapterDNI.csproj|solutionrelative:adapterdni\\idocumentovalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistroInternacional.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\AdapterDNI\\RegistroInternacional.cs",
+              "RelativeDocumentMoniker": "AdapterDNI\\RegistroInternacional.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\AdapterDNI\\RegistroInternacional.cs",
+              "RelativeToolTip": "AdapterDNI\\RegistroInternacional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T14:44:33.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroInternacionalAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\AdapterDNI\\RegistroInternacionalAdapter.cs",
+              "RelativeDocumentMoniker": "AdapterDNI\\RegistroInternacionalAdapter.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\AdapterDNI\\RegistroInternacionalAdapter.cs",
+              "RelativeToolTip": "AdapterDNI\\RegistroInternacionalAdapter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T14:41:05.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroNacional.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\AdapterDNI\\RegistroNacional.cs",
+              "RelativeDocumentMoniker": "AdapterDNI\\RegistroNacional.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\AdapterDNI\\RegistroNacional.cs",
+              "RelativeToolTip": "AdapterDNI\\RegistroNacional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T14:36:12.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroNacionalAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\AdapterDNI\\RegistroNacionalAdapter.cs",
+              "RelativeDocumentMoniker": "AdapterDNI\\RegistroNacionalAdapter.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\AdapterDNI\\RegistroNacionalAdapter.cs",
+              "RelativeToolTip": "AdapterDNI\\RegistroNacionalAdapter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T14:34:54.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDocumentoValidador.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\AdapterDNI\\IDocumentoValidador.cs",
+              "RelativeDocumentMoniker": "AdapterDNI\\IDocumentoValidador.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\AdapterDNI\\IDocumentoValidador.cs",
+              "RelativeToolTip": "AdapterDNI\\IDocumentoValidador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T14:31:19.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\AdapterDNI\\Program.cs",
+              "RelativeDocumentMoniker": "AdapterDNI\\Program.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\AdapterDNI\\AdapterDNI\\Program.cs",
+              "RelativeToolTip": "AdapterDNI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T14:28:03.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

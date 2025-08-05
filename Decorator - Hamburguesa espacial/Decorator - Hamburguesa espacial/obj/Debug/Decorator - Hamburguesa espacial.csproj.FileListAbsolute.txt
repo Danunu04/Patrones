@@ -1,0 +1,7 @@
+C:\Users\Dana Perelmuter\source\repos\Decorator - Hamburguesa espacial\Decorator - Hamburguesa espacial\obj\Debug\Decorator - Hamburguesa espacial.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\source\repos\Decorator - Hamburguesa espacial\Decorator - Hamburguesa espacial\obj\Debug\Decorator - Hamburguesa espacial.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\source\repos\Decorator - Hamburguesa espacial\Decorator - Hamburguesa espacial\bin\Debug\Decorator - Hamburguesa espacial.exe.config
+C:\Users\Dana Perelmuter\source\repos\Decorator - Hamburguesa espacial\Decorator - Hamburguesa espacial\bin\Debug\Decorator - Hamburguesa espacial.exe
+C:\Users\Dana Perelmuter\source\repos\Decorator - Hamburguesa espacial\Decorator - Hamburguesa espacial\bin\Debug\Decorator - Hamburguesa espacial.pdb
+C:\Users\Dana Perelmuter\source\repos\Decorator - Hamburguesa espacial\Decorator - Hamburguesa espacial\obj\Debug\Decorator - Hamburguesa espacial.exe
+C:\Users\Dana Perelmuter\source\repos\Decorator - Hamburguesa espacial\Decorator - Hamburguesa espacial\obj\Debug\Decorator - Hamburguesa espacial.pdb

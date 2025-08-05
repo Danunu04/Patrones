@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E58891F7-D264-4D5B-A427-269CB35ACE93}|MPP\\MPP.csproj|C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\mpp\\mppcarpeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58891F7-D264-4D5B-A427-269CB35ACE93}|MPP\\MPP.csproj|solutionrelative:mpp\\mppcarpeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F33024C-6583-4425-9E50-C40261172BDC}|Archivos-carpetas\\Archivos-carpetas.csproj|c:\\users\\dana perelmuter\\source\\repos\\archivos-carpetas\\archivos-carpetas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F33024C-6583-4425-9E50-C40261172BDC}|Archivos-carpetas\\Archivos-carpetas.csproj|solutionrelative:archivos-carpetas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C0C3A7-2C12-4537-89CB-DAA359A067E5}|BE\\BE.csproj|C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\be\\carpeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C0C3A7-2C12-4537-89CB-DAA359A067E5}|BE\\BE.csproj|solutionrelative:be\\carpeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C0C3A7-2C12-4537-89CB-DAA359A067E5}|BE\\BE.csproj|C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\be\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C0C3A7-2C12-4537-89CB-DAA359A067E5}|BE\\BE.csproj|solutionrelative:be\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C0C3A7-2C12-4537-89CB-DAA359A067E5}|BE\\BE.csproj|C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\be\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C0C3A7-2C12-4537-89CB-DAA359A067E5}|BE\\BE.csproj|solutionrelative:be\\archivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A20A19-873A-49DA-B38E-3007C46A937A}|BLL\\BLL.csproj|C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\bll\\bllcarpeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A20A19-873A-49DA-B38E-3007C46A937A}|BLL\\BLL.csproj|solutionrelative:bll\\bllcarpeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6A2857-C984-4362-AFEE-DC57495521A3}|DAL\\DAL.csproj|C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\dal\\dalcarpeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6A2857-C984-4362-AFEE-DC57495521A3}|DAL\\DAL.csproj|solutionrelative:dal\\dalcarpeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A20A19-873A-49DA-B38E-3007C46A937A}|BLL\\BLL.csproj|C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\bll\\bllarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A20A19-873A-49DA-B38E-3007C46A937A}|BLL\\BLL.csproj|solutionrelative:bll\\bllarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F33024C-6583-4425-9E50-C40261172BDC}|Archivos-carpetas\\Archivos-carpetas.csproj|C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\archivos-carpetas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F33024C-6583-4425-9E50-C40261172BDC}|Archivos-carpetas\\Archivos-carpetas.csproj|solutionrelative:archivos-carpetas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carpeta.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\BE\\Carpeta.cs",
+              "RelativeDocumentMoniker": "BE\\Carpeta.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\BE\\Carpeta.cs",
+              "RelativeToolTip": "BE\\Carpeta.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:04:54.091Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DALCarpeta.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\DAL\\DALCarpeta.cs",
+              "RelativeDocumentMoniker": "DAL\\DALCarpeta.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\DAL\\DALCarpeta.cs",
+              "RelativeToolTip": "DAL\\DALCarpeta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:03:19.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MPPCarpeta.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\MPP\\MPPCarpeta.cs",
+              "RelativeDocumentMoniker": "MPP\\MPPCarpeta.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\MPP\\MPPCarpeta.cs",
+              "RelativeToolTip": "MPP\\MPPCarpeta.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwDwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:39:46.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BLLArchivo.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\BLL\\BLLArchivo.cs",
+              "RelativeDocumentMoniker": "BLL\\BLLArchivo.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\BLL\\BLLArchivo.cs",
+              "RelativeToolTip": "BLL\\BLLArchivo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:27:10.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BLLCarpeta.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\BLL\\BLLCarpeta.cs",
+              "RelativeDocumentMoniker": "BLL\\BLLCarpeta.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\BLL\\BLLCarpeta.cs",
+              "RelativeToolTip": "BLL\\BLLCarpeta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:25:40.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\Archivos-carpetas\\Form1.cs",
+              "RelativeDocumentMoniker": "Archivos-carpetas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\Archivos-carpetas\\Form1.cs",
+              "RelativeToolTip": "Archivos-carpetas\\Form1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:10:36.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Archivo.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\BE\\Archivo.cs",
+              "RelativeDocumentMoniker": "BE\\Archivo.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\BE\\Archivo.cs",
+              "RelativeToolTip": "BE\\Archivo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:02:51.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Component.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\BE\\Component.cs",
+              "RelativeDocumentMoniker": "BE\\Component.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\BE\\Component.cs",
+              "RelativeToolTip": "BE\\Component.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:00:44.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\Archivos-carpetas\\Form1.cs",
+              "RelativeDocumentMoniker": "Archivos-carpetas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Archivos-carpetas\\Archivos-carpetas\\Form1.cs [Design]",
+              "RelativeToolTip": "Archivos-carpetas\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:55:26.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

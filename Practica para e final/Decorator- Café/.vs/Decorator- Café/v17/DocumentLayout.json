@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Decorator- Caf\u00E9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8F8BCD-24F0-4332-AE1E-AF6CF9FADE4A}|Decorator- Caf\u00E9\\Decorator- Caf\u00E9.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\decorator- caf\u00E9\\decorator- caf\u00E9\\conlche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8F8BCD-24F0-4332-AE1E-AF6CF9FADE4A}|Decorator- Caf\u00E9\\Decorator- Caf\u00E9.csproj|solutionrelative:decorator- caf\u00E9\\conlche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8F8BCD-24F0-4332-AE1E-AF6CF9FADE4A}|Decorator- Caf\u00E9\\Decorator- Caf\u00E9.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\decorator- caf\u00E9\\decorator- caf\u00E9\\decorador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8F8BCD-24F0-4332-AE1E-AF6CF9FADE4A}|Decorator- Caf\u00E9\\Decorator- Caf\u00E9.csproj|solutionrelative:decorator- caf\u00E9\\decorador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8F8BCD-24F0-4332-AE1E-AF6CF9FADE4A}|Decorator- Caf\u00E9\\Decorator- Caf\u00E9.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\decorator- caf\u00E9\\decorator- caf\u00E9\\bebida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8F8BCD-24F0-4332-AE1E-AF6CF9FADE4A}|Decorator- Caf\u00E9\\Decorator- Caf\u00E9.csproj|solutionrelative:decorator- caf\u00E9\\bebida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8F8BCD-24F0-4332-AE1E-AF6CF9FADE4A}|Decorator- Caf\u00E9\\Decorator- Caf\u00E9.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\decorator- caf\u00E9\\decorator- caf\u00E9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8F8BCD-24F0-4332-AE1E-AF6CF9FADE4A}|Decorator- Caf\u00E9\\Decorator- Caf\u00E9.csproj|solutionrelative:decorator- caf\u00E9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8F8BCD-24F0-4332-AE1E-AF6CF9FADE4A}|Decorator- Caf\u00E9\\Decorator- Caf\u00E9.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\decorator- caf\u00E9\\decorator- caf\u00E9\\cafesimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8F8BCD-24F0-4332-AE1E-AF6CF9FADE4A}|Decorator- Caf\u00E9\\Decorator- Caf\u00E9.csproj|solutionrelative:decorator- caf\u00E9\\cafesimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8F8BCD-24F0-4332-AE1E-AF6CF9FADE4A}|Decorator- Caf\u00E9\\Decorator- Caf\u00E9.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\decorator- caf\u00E9\\decorator- caf\u00E9\\conchocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8F8BCD-24F0-4332-AE1E-AF6CF9FADE4A}|Decorator- Caf\u00E9\\Decorator- Caf\u00E9.csproj|solutionrelative:decorator- caf\u00E9\\conchocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConChocolate.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Decorator- Caf\u00E9\\Decorator- Caf\u00E9\\ConChocolate.cs",
+              "RelativeDocumentMoniker": "Decorator- Caf\u00E9\\ConChocolate.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Decorator- Caf\u00E9\\Decorator- Caf\u00E9\\ConChocolate.cs",
+              "RelativeToolTip": "Decorator- Caf\u00E9\\ConChocolate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:38:45.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConLche.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Decorator- Caf\u00E9\\Decorator- Caf\u00E9\\ConLche.cs",
+              "RelativeDocumentMoniker": "Decorator- Caf\u00E9\\ConLche.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Decorator- Caf\u00E9\\Decorator- Caf\u00E9\\ConLche.cs",
+              "RelativeToolTip": "Decorator- Caf\u00E9\\ConLche.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:34:43.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Decorador.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Decorator- Caf\u00E9\\Decorator- Caf\u00E9\\Decorador.cs",
+              "RelativeDocumentMoniker": "Decorator- Caf\u00E9\\Decorador.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Decorator- Caf\u00E9\\Decorator- Caf\u00E9\\Decorador.cs",
+              "RelativeToolTip": "Decorator- Caf\u00E9\\Decorador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:33:13.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CafeSimple.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Decorator- Caf\u00E9\\Decorator- Caf\u00E9\\CafeSimple.cs",
+              "RelativeDocumentMoniker": "Decorator- Caf\u00E9\\CafeSimple.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Decorator- Caf\u00E9\\Decorator- Caf\u00E9\\CafeSimple.cs",
+              "RelativeToolTip": "Decorator- Caf\u00E9\\CafeSimple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:31:00.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bebida.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Decorator- Caf\u00E9\\Decorator- Caf\u00E9\\Bebida.cs",
+              "RelativeDocumentMoniker": "Decorator- Caf\u00E9\\Bebida.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Decorator- Caf\u00E9\\Decorator- Caf\u00E9\\Bebida.cs",
+              "RelativeToolTip": "Decorator- Caf\u00E9\\Bebida.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:26:02.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Decorator- Caf\u00E9\\Decorator- Caf\u00E9\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator- Caf\u00E9\\Program.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Decorator- Caf\u00E9\\Decorator- Caf\u00E9\\Program.cs",
+              "RelativeToolTip": "Decorator- Caf\u00E9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T14:56:15.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

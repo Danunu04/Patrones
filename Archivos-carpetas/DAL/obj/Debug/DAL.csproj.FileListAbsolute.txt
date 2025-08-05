@@ -1,0 +1,6 @@
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\DAL\bin\Debug\DAL.dll
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\DAL\bin\Debug\DAL.pdb
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\DAL\obj\Debug\DAL.dll
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\DAL\obj\Debug\DAL.pdb

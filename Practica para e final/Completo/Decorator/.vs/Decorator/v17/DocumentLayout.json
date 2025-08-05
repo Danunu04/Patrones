@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Decorator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2194BC39-269C-4408-970A-CDE92D7AE851}|Decorator\\Decorator.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\completo\\decorator\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194BC39-269C-4408-970A-CDE92D7AE851}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194BC39-269C-4408-970A-CDE92D7AE851}|Decorator\\Decorator.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\completo\\decorator\\decorator\\wifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194BC39-269C-4408-970A-CDE92D7AE851}|Decorator\\Decorator.csproj|solutionrelative:decorator\\wifi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194BC39-269C-4408-970A-CDE92D7AE851}|Decorator\\Decorator.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\completo\\decorator\\decorator\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194BC39-269C-4408-970A-CDE92D7AE851}|Decorator\\Decorator.csproj|solutionrelative:decorator\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194BC39-269C-4408-970A-CDE92D7AE851}|Decorator\\Decorator.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\completo\\decorator\\decorator\\adicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194BC39-269C-4408-970A-CDE92D7AE851}|Decorator\\Decorator.csproj|solutionrelative:decorator\\adicionales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194BC39-269C-4408-970A-CDE92D7AE851}|Decorator\\Decorator.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\completo\\decorator\\decorator\\pasaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194BC39-269C-4408-970A-CDE92D7AE851}|Decorator\\Decorator.csproj|solutionrelative:decorator\\pasaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2194BC39-269C-4408-970A-CDE92D7AE851}|Decorator\\Decorator.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\completo\\decorator\\decorator\\objetobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2194BC39-269C-4408-970A-CDE92D7AE851}|Decorator\\Decorator.csproj|solutionrelative:decorator\\objetobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comida.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Decorator\\Decorator\\Comida.cs",
+              "RelativeDocumentMoniker": "Decorator\\Comida.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Decorator\\Decorator\\Comida.cs",
+              "RelativeToolTip": "Decorator\\Comida.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:31:21.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wifi.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Decorator\\Decorator\\Wifi.cs",
+              "RelativeDocumentMoniker": "Decorator\\Wifi.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Decorator\\Decorator\\Wifi.cs",
+              "RelativeToolTip": "Decorator\\Wifi.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:29:14.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Adicionales.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Decorator\\Decorator\\Adicionales.cs",
+              "RelativeDocumentMoniker": "Decorator\\Adicionales.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Decorator\\Decorator\\Adicionales.cs",
+              "RelativeToolTip": "Decorator\\Adicionales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:27:20.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pasaje.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Decorator\\Decorator\\Pasaje.cs",
+              "RelativeDocumentMoniker": "Decorator\\Pasaje.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Decorator\\Decorator\\Pasaje.cs",
+              "RelativeToolTip": "Decorator\\Pasaje.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:25:46.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObjetoBase.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Decorator\\Decorator\\ObjetoBase.cs",
+              "RelativeDocumentMoniker": "Decorator\\ObjetoBase.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Decorator\\Decorator\\ObjetoBase.cs",
+              "RelativeToolTip": "Decorator\\ObjetoBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:22:12.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Decorator\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator\\Program.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Decorator\\Decorator\\Program.cs",
+              "RelativeToolTip": "Decorator\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCUAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:21:47.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

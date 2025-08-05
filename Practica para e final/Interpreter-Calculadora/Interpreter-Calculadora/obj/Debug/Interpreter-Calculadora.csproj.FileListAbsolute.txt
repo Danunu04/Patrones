@@ -1,0 +1,7 @@
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Interpreter-Calculadora\Interpreter-Calculadora\obj\Debug\Interpreter-Calculadora.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Interpreter-Calculadora\Interpreter-Calculadora\obj\Debug\Interpreter-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Interpreter-Calculadora\Interpreter-Calculadora\bin\Debug\Interpreter-Calculadora.exe.config
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Interpreter-Calculadora\Interpreter-Calculadora\bin\Debug\Interpreter-Calculadora.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Interpreter-Calculadora\Interpreter-Calculadora\bin\Debug\Interpreter-Calculadora.pdb
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Interpreter-Calculadora\Interpreter-Calculadora\obj\Debug\Interpreter-Calculadora.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Interpreter-Calculadora\Interpreter-Calculadora\obj\Debug\Interpreter-Calculadora.pdb

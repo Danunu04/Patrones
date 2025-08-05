@@ -1,0 +1,13 @@
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BLL\bin\Debug\BLL.dll
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BLL\bin\Debug\BLL.pdb
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BLL\bin\Debug\MPP.dll
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BLL\bin\Debug\DAL.dll
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BLL\bin\Debug\BE.dll
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BLL\bin\Debug\MPP.pdb
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BLL\bin\Debug\DAL.pdb
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BLL\bin\Debug\BE.pdb
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BLL\obj\Debug\BLL.dll
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BLL\obj\Debug\BLL.pdb

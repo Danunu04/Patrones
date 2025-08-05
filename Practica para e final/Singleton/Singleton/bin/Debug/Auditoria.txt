@@ -1,0 +1,11 @@
+12:41:26 - Instancia Creada
+12:41:26 - Acceso1a la instancia de TokenManager.
+12:41:26 - Acceso2a la instancia de TokenManager.
+12:41:38 - Instancia Creada
+12:41:38 - Acceso1a la instancia de TokenManager.
+12:41:38 - Acceso2a la instancia de TokenManager.
+12:43:43 - Instancia Creada
+12:43:43 - Acceso1a la instancia de TokenManager.
+12:43:47 - Acceso2a la instancia de TokenManager.
+12:43:51 - Acceso3a la instancia de TokenManager.
+12:43:52 - Acceso4a la instancia de TokenManager.

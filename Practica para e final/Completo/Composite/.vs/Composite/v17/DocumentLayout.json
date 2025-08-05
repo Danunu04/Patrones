@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Composite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1437861A-7AF3-4B57-B291-9653479A8169}|Composite\\Composite.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\completo\\composite\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1437861A-7AF3-4B57-B291-9653479A8169}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1437861A-7AF3-4B57-B291-9653479A8169}|Composite\\Composite.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\completo\\composite\\composite\\iestacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1437861A-7AF3-4B57-B291-9653479A8169}|Composite\\Composite.csproj|solutionrelative:composite\\iestacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1437861A-7AF3-4B57-B291-9653479A8169}|Composite\\Composite.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\completo\\composite\\composite\\estacion compuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1437861A-7AF3-4B57-B291-9653479A8169}|Composite\\Composite.csproj|solutionrelative:composite\\estacion compuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1437861A-7AF3-4B57-B291-9653479A8169}|Composite\\Composite.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\completo\\composite\\composite\\estacionsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1437861A-7AF3-4B57-B291-9653479A8169}|Composite\\Composite.csproj|solutionrelative:composite\\estacionsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstacionSimple.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Composite\\Composite\\EstacionSimple.cs",
+              "RelativeDocumentMoniker": "Composite\\EstacionSimple.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Composite\\Composite\\EstacionSimple.cs",
+              "RelativeToolTip": "Composite\\EstacionSimple.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T18:26:03.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estacion compuesta.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Composite\\Composite\\Estacion compuesta.cs",
+              "RelativeDocumentMoniker": "Composite\\Estacion compuesta.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Composite\\Composite\\Estacion compuesta.cs",
+              "RelativeToolTip": "Composite\\Estacion compuesta.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwBsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T18:21:30.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Iestacion.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Composite\\Composite\\Iestacion.cs",
+              "RelativeDocumentMoniker": "Composite\\Iestacion.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Composite\\Composite\\Iestacion.cs",
+              "RelativeToolTip": "Composite\\Iestacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T18:19:26.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Composite\\Composite\\Program.cs",
+              "RelativeDocumentMoniker": "Composite\\Program.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Completo\\Composite\\Composite\\Program.cs",
+              "RelativeToolTip": "Composite\\Program.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAwwAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T18:19:04.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

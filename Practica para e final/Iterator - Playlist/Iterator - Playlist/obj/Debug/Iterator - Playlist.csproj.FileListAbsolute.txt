@@ -1,0 +1,7 @@
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Iterator - Playlist\Iterator - Playlist\bin\Debug\Iterator - Playlist.exe.config
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Iterator - Playlist\Iterator - Playlist\bin\Debug\Iterator - Playlist.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Iterator - Playlist\Iterator - Playlist\bin\Debug\Iterator - Playlist.pdb
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Iterator - Playlist\Iterator - Playlist\obj\Debug\Iterator - Playlist.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Iterator - Playlist\Iterator - Playlist\obj\Debug\Iterator - Playlist.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Iterator - Playlist\Iterator - Playlist\obj\Debug\Iterator - Playlist.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Iterator - Playlist\Iterator - Playlist\obj\Debug\Iterator - Playlist.pdb

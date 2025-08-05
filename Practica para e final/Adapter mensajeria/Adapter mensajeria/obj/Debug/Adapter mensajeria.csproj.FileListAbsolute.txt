@@ -1,0 +1,7 @@
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Adapter mensajeria\Adapter mensajeria\bin\Debug\Adapter mensajeria.exe.config
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Adapter mensajeria\Adapter mensajeria\bin\Debug\Adapter mensajeria.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Adapter mensajeria\Adapter mensajeria\bin\Debug\Adapter mensajeria.pdb
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Adapter mensajeria\Adapter mensajeria\obj\Debug\Adapter mensajeria.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Adapter mensajeria\Adapter mensajeria\obj\Debug\Adapter mensajeria.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Adapter mensajeria\Adapter mensajeria\obj\Debug\Adapter mensajeria.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Adapter mensajeria\Adapter mensajeria\obj\Debug\Adapter mensajeria.pdb

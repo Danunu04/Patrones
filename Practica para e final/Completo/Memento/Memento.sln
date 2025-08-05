@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{44B3FB8A-17CD-4F3D-AF8E-C0C5ED7B3157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B3FB8A-17CD-4F3D-AF8E-C0C5ED7B3157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B3FB8A-17CD-4F3D-AF8E-C0C5ED7B3157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B3FB8A-17CD-4F3D-AF8E-C0C5ED7B3157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B3FB8A-17CD-4F3D-AF8E-C0C5ED7B3157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13113F99-3C9F-4230-BC03-A41569F3824B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Memento-Calculadora\Memento-Calculadora\bin\Debug\Memento-Calculadora.exe.config
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Memento-Calculadora\Memento-Calculadora\bin\Debug\Memento-Calculadora.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Memento-Calculadora\Memento-Calculadora\bin\Debug\Memento-Calculadora.pdb
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Memento-Calculadora\Memento-Calculadora\obj\Debug\Memento-Calculadora.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Memento-Calculadora\Memento-Calculadora\obj\Debug\Memento-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Memento-Calculadora\Memento-Calculadora\obj\Debug\Memento-Calculadora.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Memento-Calculadora\Memento-Calculadora\obj\Debug\Memento-Calculadora.pdb

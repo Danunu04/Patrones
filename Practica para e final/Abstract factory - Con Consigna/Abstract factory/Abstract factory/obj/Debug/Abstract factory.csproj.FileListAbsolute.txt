@@ -1,0 +1,7 @@
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Abstract factory - Con Consigna\Abstract factory\Abstract factory\bin\Debug\Abstract factory.exe.config
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Abstract factory - Con Consigna\Abstract factory\Abstract factory\bin\Debug\Abstract factory.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Abstract factory - Con Consigna\Abstract factory\Abstract factory\bin\Debug\Abstract factory.pdb
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Abstract factory - Con Consigna\Abstract factory\Abstract factory\obj\Debug\Abstract factory.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Abstract factory - Con Consigna\Abstract factory\Abstract factory\obj\Debug\Abstract factory.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Abstract factory - Con Consigna\Abstract factory\Abstract factory\obj\Debug\Abstract factory.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Abstract factory - Con Consigna\Abstract factory\Abstract factory\obj\Debug\Abstract factory.pdb

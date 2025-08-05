@@ -1,0 +1,7 @@
+C:\Users\Dana Perelmuter\source\repos\Iterator-TomarLista\Iterator-TomarLista\bin\Debug\Iterator-TomarLista.exe.config
+C:\Users\Dana Perelmuter\source\repos\Iterator-TomarLista\Iterator-TomarLista\bin\Debug\Iterator-TomarLista.exe
+C:\Users\Dana Perelmuter\source\repos\Iterator-TomarLista\Iterator-TomarLista\bin\Debug\Iterator-TomarLista.pdb
+C:\Users\Dana Perelmuter\source\repos\Iterator-TomarLista\Iterator-TomarLista\obj\Debug\Iterator-TomarLista.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\source\repos\Iterator-TomarLista\Iterator-TomarLista\obj\Debug\Iterator-TomarLista.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\source\repos\Iterator-TomarLista\Iterator-TomarLista\obj\Debug\Iterator-TomarLista.exe
+C:\Users\Dana Perelmuter\source\repos\Iterator-TomarLista\Iterator-TomarLista\obj\Debug\Iterator-TomarLista.pdb

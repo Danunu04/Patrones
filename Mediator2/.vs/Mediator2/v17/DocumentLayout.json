@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dana Perelmuter\\source\\repos\\Mediator2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4931FB6F-D59E-4A6F-BBD5-5EC3DCA45FDA}|Mediator2\\Mediator2.csproj|c:\\users\\dana perelmuter\\source\\repos\\mediator2\\mediator2\\authenticariondialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4931FB6F-D59E-4A6F-BBD5-5EC3DCA45FDA}|Mediator2\\Mediator2.csproj|solutionrelative:mediator2\\authenticariondialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4931FB6F-D59E-4A6F-BBD5-5EC3DCA45FDA}|Mediator2\\Mediator2.csproj|c:\\users\\dana perelmuter\\source\\repos\\mediator2\\mediator2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4931FB6F-D59E-4A6F-BBD5-5EC3DCA45FDA}|Mediator2\\Mediator2.csproj|solutionrelative:mediator2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4931FB6F-D59E-4A6F-BBD5-5EC3DCA45FDA}|Mediator2\\Mediator2.csproj|c:\\users\\dana perelmuter\\source\\repos\\mediator2\\mediator2\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4931FB6F-D59E-4A6F-BBD5-5EC3DCA45FDA}|Mediator2\\Mediator2.csproj|solutionrelative:mediator2\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4931FB6F-D59E-4A6F-BBD5-5EC3DCA45FDA}|Mediator2\\Mediator2.csproj|c:\\users\\dana perelmuter\\source\\repos\\mediator2\\mediator2\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4931FB6F-D59E-4A6F-BBD5-5EC3DCA45FDA}|Mediator2\\Mediator2.csproj|solutionrelative:mediator2\\imediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4931FB6F-D59E-4A6F-BBD5-5EC3DCA45FDA}|Mediator2\\Mediator2.csproj|c:\\users\\dana perelmuter\\source\\repos\\mediator2\\mediator2\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4931FB6F-D59E-4A6F-BBD5-5EC3DCA45FDA}|Mediator2\\Mediator2.csproj|solutionrelative:mediator2\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4931FB6F-D59E-4A6F-BBD5-5EC3DCA45FDA}|Mediator2\\Mediator2.csproj|c:\\users\\dana perelmuter\\source\\repos\\mediator2\\mediator2\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4931FB6F-D59E-4A6F-BBD5-5EC3DCA45FDA}|Mediator2\\Mediator2.csproj|solutionrelative:mediator2\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4931FB6F-D59E-4A6F-BBD5-5EC3DCA45FDA}|Mediator2\\Mediator2.csproj|c:\\users\\dana perelmuter\\source\\repos\\mediator2\\mediator2\\checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4931FB6F-D59E-4A6F-BBD5-5EC3DCA45FDA}|Mediator2\\Mediator2.csproj|solutionrelative:mediator2\\checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticarionDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Mediator2\\Mediator2\\AuthenticarionDialog.cs",
+              "RelativeDocumentMoniker": "Mediator2\\AuthenticarionDialog.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Mediator2\\Mediator2\\AuthenticarionDialog.cs",
+              "RelativeToolTip": "Mediator2\\AuthenticarionDialog.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T21:38:03.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckBox.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Mediator2\\Mediator2\\CheckBox.cs",
+              "RelativeDocumentMoniker": "Mediator2\\CheckBox.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Mediator2\\Mediator2\\CheckBox.cs",
+              "RelativeToolTip": "Mediator2\\CheckBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T21:36:42.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TextBox.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Mediator2\\Mediator2\\TextBox.cs",
+              "RelativeDocumentMoniker": "Mediator2\\TextBox.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Mediator2\\Mediator2\\TextBox.cs",
+              "RelativeToolTip": "Mediator2\\TextBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T21:35:03.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Mediator2\\Mediator2\\Button.cs",
+              "RelativeDocumentMoniker": "Mediator2\\Button.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Mediator2\\Mediator2\\Button.cs",
+              "RelativeToolTip": "Mediator2\\Button.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T21:33:37.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Component.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Mediator2\\Mediator2\\Component.cs",
+              "RelativeDocumentMoniker": "Mediator2\\Component.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Mediator2\\Mediator2\\Component.cs",
+              "RelativeToolTip": "Mediator2\\Component.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T21:29:56.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMediator.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Mediator2\\Mediator2\\IMediator.cs",
+              "RelativeDocumentMoniker": "Mediator2\\IMediator.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Mediator2\\Mediator2\\IMediator.cs",
+              "RelativeToolTip": "Mediator2\\IMediator.cs",
+              "ViewState": "AQIAAAAAAAAADvMyDob7vwcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T21:29:20.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Mediator2\\Mediator2\\Program.cs",
+              "RelativeDocumentMoniker": "Mediator2\\Program.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Mediator2\\Mediator2\\Program.cs",
+              "RelativeToolTip": "Mediator2\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T21:28:44.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

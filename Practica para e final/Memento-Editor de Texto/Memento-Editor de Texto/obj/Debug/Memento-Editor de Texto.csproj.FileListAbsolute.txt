@@ -1,0 +1,7 @@
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Memento-Editor de Texto\Memento-Editor de Texto\bin\Debug\Memento-Editor de Texto.exe.config
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Memento-Editor de Texto\Memento-Editor de Texto\bin\Debug\Memento-Editor de Texto.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Memento-Editor de Texto\Memento-Editor de Texto\bin\Debug\Memento-Editor de Texto.pdb
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Memento-Editor de Texto\Memento-Editor de Texto\obj\Debug\Memento-Editor de Texto.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Memento-Editor de Texto\Memento-Editor de Texto\obj\Debug\Memento-Editor de Texto.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Memento-Editor de Texto\Memento-Editor de Texto\obj\Debug\Memento-Editor de Texto.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Memento-Editor de Texto\Memento-Editor de Texto\obj\Debug\Memento-Editor de Texto.pdb

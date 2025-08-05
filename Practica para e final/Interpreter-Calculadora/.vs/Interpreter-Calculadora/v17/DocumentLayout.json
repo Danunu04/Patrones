@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Interpreter-Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A82655DE-99D4-4A49-9A0B-F36BD345324C}|Interpreter-Calculadora\\Interpreter-Calculadora.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\interpreter-calculadora\\interpreter-calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82655DE-99D4-4A49-9A0B-F36BD345324C}|Interpreter-Calculadora\\Interpreter-Calculadora.csproj|solutionrelative:interpreter-calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82655DE-99D4-4A49-9A0B-F36BD345324C}|Interpreter-Calculadora\\Interpreter-Calculadora.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\interpreter-calculadora\\interpreter-calculadora\\expresion_resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82655DE-99D4-4A49-9A0B-F36BD345324C}|Interpreter-Calculadora\\Interpreter-Calculadora.csproj|solutionrelative:interpreter-calculadora\\expresion_resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82655DE-99D4-4A49-9A0B-F36BD345324C}|Interpreter-Calculadora\\Interpreter-Calculadora.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\interpreter-calculadora\\interpreter-calculadora\\expresion_suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82655DE-99D4-4A49-9A0B-F36BD345324C}|Interpreter-Calculadora\\Interpreter-Calculadora.csproj|solutionrelative:interpreter-calculadora\\expresion_suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82655DE-99D4-4A49-9A0B-F36BD345324C}|Interpreter-Calculadora\\Interpreter-Calculadora.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\interpreter-calculadora\\interpreter-calculadora\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82655DE-99D4-4A49-9A0B-F36BD345324C}|Interpreter-Calculadora\\Interpreter-Calculadora.csproj|solutionrelative:interpreter-calculadora\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82655DE-99D4-4A49-9A0B-F36BD345324C}|Interpreter-Calculadora\\Interpreter-Calculadora.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\interpreter-calculadora\\interpreter-calculadora\\iexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82655DE-99D4-4A49-9A0B-F36BD345324C}|Interpreter-Calculadora\\Interpreter-Calculadora.csproj|solutionrelative:interpreter-calculadora\\iexpression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EXPRESION_RESTA.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Interpreter-Calculadora\\Interpreter-Calculadora\\EXPRESION_RESTA.cs",
+              "RelativeDocumentMoniker": "Interpreter-Calculadora\\EXPRESION_RESTA.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Interpreter-Calculadora\\Interpreter-Calculadora\\EXPRESION_RESTA.cs",
+              "RelativeToolTip": "Interpreter-Calculadora\\EXPRESION_RESTA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T23:55:17.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EXPRESION_SUMA.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Interpreter-Calculadora\\Interpreter-Calculadora\\EXPRESION_SUMA.cs",
+              "RelativeDocumentMoniker": "Interpreter-Calculadora\\EXPRESION_SUMA.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Interpreter-Calculadora\\Interpreter-Calculadora\\EXPRESION_SUMA.cs",
+              "RelativeToolTip": "Interpreter-Calculadora\\EXPRESION_SUMA.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T23:51:24.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IExpression.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Interpreter-Calculadora\\Interpreter-Calculadora\\IExpression.cs",
+              "RelativeDocumentMoniker": "Interpreter-Calculadora\\IExpression.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Interpreter-Calculadora\\Interpreter-Calculadora\\IExpression.cs",
+              "RelativeToolTip": "Interpreter-Calculadora\\IExpression.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T23:49:27.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Interpreter-Calculadora\\Interpreter-Calculadora\\Contexto.cs",
+              "RelativeDocumentMoniker": "Interpreter-Calculadora\\Contexto.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Interpreter-Calculadora\\Interpreter-Calculadora\\Contexto.cs",
+              "RelativeToolTip": "Interpreter-Calculadora\\Contexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T23:46:32.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Interpreter-Calculadora\\Interpreter-Calculadora\\Program.cs",
+              "RelativeDocumentMoniker": "Interpreter-Calculadora\\Program.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Interpreter-Calculadora\\Interpreter-Calculadora\\Program.cs",
+              "RelativeToolTip": "Interpreter-Calculadora\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T23:45:48.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

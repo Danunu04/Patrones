@@ -1,0 +1,7 @@
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Completo\AdapterDNI\AdapterDNI\bin\Debug\AdapterDNI.exe.config
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Completo\AdapterDNI\AdapterDNI\bin\Debug\AdapterDNI.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Completo\AdapterDNI\AdapterDNI\bin\Debug\AdapterDNI.pdb
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Completo\AdapterDNI\AdapterDNI\obj\Debug\AdapterDNI.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Completo\AdapterDNI\AdapterDNI\obj\Debug\AdapterDNI.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Completo\AdapterDNI\AdapterDNI\obj\Debug\AdapterDNI.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Completo\AdapterDNI\AdapterDNI\obj\Debug\AdapterDNI.pdb

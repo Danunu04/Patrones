@@ -1,0 +1,7 @@
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Singleton\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Singleton\Singleton\obj\Debug\Singleton.pdb

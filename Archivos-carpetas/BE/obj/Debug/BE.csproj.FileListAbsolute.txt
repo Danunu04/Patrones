@@ -1,0 +1,6 @@
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BE\bin\Debug\BE.dll
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BE\bin\Debug\BE.pdb
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BE\obj\Debug\BE.dll
+C:\Users\Dana Perelmuter\source\repos\Archivos-carpetas\BE\obj\Debug\BE.pdb

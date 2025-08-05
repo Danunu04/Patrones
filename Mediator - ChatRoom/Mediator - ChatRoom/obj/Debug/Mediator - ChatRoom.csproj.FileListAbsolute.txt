@@ -1,0 +1,7 @@
+C:\Users\Dana Perelmuter\source\repos\Mediator - ChatRoom\Mediator - ChatRoom\bin\Debug\Mediator - ChatRoom.exe.config
+C:\Users\Dana Perelmuter\source\repos\Mediator - ChatRoom\Mediator - ChatRoom\bin\Debug\Mediator - ChatRoom.exe
+C:\Users\Dana Perelmuter\source\repos\Mediator - ChatRoom\Mediator - ChatRoom\bin\Debug\Mediator - ChatRoom.pdb
+C:\Users\Dana Perelmuter\source\repos\Mediator - ChatRoom\Mediator - ChatRoom\obj\Debug\Mediator - ChatRoom.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\source\repos\Mediator - ChatRoom\Mediator - ChatRoom\obj\Debug\Mediator - ChatRoom.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\source\repos\Mediator - ChatRoom\Mediator - ChatRoom\obj\Debug\Mediator - ChatRoom.exe
+C:\Users\Dana Perelmuter\source\repos\Mediator - ChatRoom\Mediator - ChatRoom\obj\Debug\Mediator - ChatRoom.pdb

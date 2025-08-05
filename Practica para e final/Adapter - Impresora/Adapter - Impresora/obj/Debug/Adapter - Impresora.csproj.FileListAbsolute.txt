@@ -1,0 +1,7 @@
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Adapter - Impresora\Adapter - Impresora\bin\Debug\Adapter - Impresora.exe.config
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Adapter - Impresora\Adapter - Impresora\bin\Debug\Adapter - Impresora.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Adapter - Impresora\Adapter - Impresora\bin\Debug\Adapter - Impresora.pdb
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Adapter - Impresora\Adapter - Impresora\obj\Debug\Adapter - Impresora.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Adapter - Impresora\Adapter - Impresora\obj\Debug\Adapter - Impresora.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Adapter - Impresora\Adapter - Impresora\obj\Debug\Adapter - Impresora.exe
+C:\Users\Dana Perelmuter\Desktop\Practica para e final\Adapter - Impresora\Adapter - Impresora\obj\Debug\Adapter - Impresora.pdb

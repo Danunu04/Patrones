@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Memento-Editor de Texto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFED37D-A727-419D-9D58-45E99FA3889F}|Memento-Editor de Texto\\Memento-Editor de Texto.csproj|C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Memento-Editor de Texto\\memento-editor de texto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFED37D-A727-419D-9D58-45E99FA3889F}|Memento-Editor de Texto\\Memento-Editor de Texto.csproj|solutionrelative:memento-editor de texto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFED37D-A727-419D-9D58-45E99FA3889F}|Memento-Editor de Texto\\Memento-Editor de Texto.csproj|C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Memento-Editor de Texto\\memento-editor de texto\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFED37D-A727-419D-9D58-45E99FA3889F}|Memento-Editor de Texto\\Memento-Editor de Texto.csproj|solutionrelative:memento-editor de texto\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFED37D-A727-419D-9D58-45E99FA3889F}|Memento-Editor de Texto\\Memento-Editor de Texto.csproj|c:\\users\\dana perelmuter\\desktop\\practica para e final\\memento-editor de texto\\memento-editor de texto\\editordetexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFED37D-A727-419D-9D58-45E99FA3889F}|Memento-Editor de Texto\\Memento-Editor de Texto.csproj|solutionrelative:memento-editor de texto\\editordetexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFED37D-A727-419D-9D58-45E99FA3889F}|Memento-Editor de Texto\\Memento-Editor de Texto.csproj|C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Memento-Editor de Texto\\memento-editor de texto\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFED37D-A727-419D-9D58-45E99FA3889F}|Memento-Editor de Texto\\Memento-Editor de Texto.csproj|solutionrelative:memento-editor de texto\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Caretaker.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Memento-Editor de Texto\\Memento-Editor de Texto\\Caretaker.cs",
+              "RelativeDocumentMoniker": "Memento-Editor de Texto\\Caretaker.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Memento-Editor de Texto\\Memento-Editor de Texto\\Caretaker.cs",
+              "RelativeToolTip": "Memento-Editor de Texto\\Caretaker.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:21:24.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Memento.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Memento-Editor de Texto\\Memento-Editor de Texto\\Memento.cs",
+              "RelativeDocumentMoniker": "Memento-Editor de Texto\\Memento.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Memento-Editor de Texto\\Memento-Editor de Texto\\Memento.cs",
+              "RelativeToolTip": "Memento-Editor de Texto\\Memento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:10:54.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditorDeTexto.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Memento-Editor de Texto\\Memento-Editor de Texto\\EditorDeTexto.cs",
+              "RelativeDocumentMoniker": "Memento-Editor de Texto\\EditorDeTexto.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Memento-Editor de Texto\\Memento-Editor de Texto\\EditorDeTexto.cs",
+              "RelativeToolTip": "Memento-Editor de Texto\\EditorDeTexto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:04:09.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Memento-Editor de Texto\\Memento-Editor de Texto\\Program.cs",
+              "RelativeDocumentMoniker": "Memento-Editor de Texto\\Program.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\Desktop\\Practica para e final\\Memento-Editor de Texto\\Memento-Editor de Texto\\Program.cs",
+              "RelativeToolTip": "Memento-Editor de Texto\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:03:30.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

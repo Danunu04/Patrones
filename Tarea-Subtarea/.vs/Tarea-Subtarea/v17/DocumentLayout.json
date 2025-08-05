@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dana Perelmuter\\source\\repos\\Tarea-Subtarea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E541F96C-0AE2-473E-899F-8F5BFC32168E}|BE\\BE.csproj|C:\\Users\\Dana Perelmuter\\source\\repos\\Tarea-Subtarea\\be\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541F96C-0AE2-473E-899F-8F5BFC32168E}|BE\\BE.csproj|solutionrelative:be\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541F96C-0AE2-473E-899F-8F5BFC32168E}|BE\\BE.csproj|C:\\Users\\Dana Perelmuter\\source\\repos\\Tarea-Subtarea\\be\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541F96C-0AE2-473E-899F-8F5BFC32168E}|BE\\BE.csproj|solutionrelative:be\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D644B3-D682-473C-B5AD-FF36A5CFC6EC}|Tarea-Subtarea\\Tarea-Subtarea.csproj|c:\\users\\dana perelmuter\\source\\repos\\tarea-subtarea\\tarea-subtarea\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98D644B3-D682-473C-B5AD-FF36A5CFC6EC}|Tarea-Subtarea\\Tarea-Subtarea.csproj|solutionrelative:tarea-subtarea\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541F96C-0AE2-473E-899F-8F5BFC32168E}|BE\\BE.csproj|C:\\Users\\Dana Perelmuter\\source\\repos\\Tarea-Subtarea\\be\\subtarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541F96C-0AE2-473E-899F-8F5BFC32168E}|BE\\BE.csproj|solutionrelative:be\\subtarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubTarea.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Tarea-Subtarea\\BE\\SubTarea.cs",
+              "RelativeDocumentMoniker": "BE\\SubTarea.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Tarea-Subtarea\\BE\\SubTarea.cs",
+              "RelativeToolTip": "BE\\SubTarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:03:52.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Tarea-Subtarea\\BE\\Tarea.cs",
+              "RelativeDocumentMoniker": "BE\\Tarea.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Tarea-Subtarea\\BE\\Tarea.cs",
+              "RelativeToolTip": "BE\\Tarea.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:55:26.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Component.cs",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Tarea-Subtarea\\BE\\Component.cs",
+              "RelativeDocumentMoniker": "BE\\Component.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Tarea-Subtarea\\BE\\Component.cs",
+              "RelativeToolTip": "BE\\Component.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:51:49.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dana Perelmuter\\source\\repos\\Tarea-Subtarea\\Tarea-Subtarea\\Form1.cs",
+              "RelativeDocumentMoniker": "Tarea-Subtarea\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dana Perelmuter\\source\\repos\\Tarea-Subtarea\\Tarea-Subtarea\\Form1.cs [Design]",
+              "RelativeToolTip": "Tarea-Subtarea\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:47:38.85Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

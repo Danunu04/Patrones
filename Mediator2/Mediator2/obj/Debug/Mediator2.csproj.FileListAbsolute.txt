@@ -1,0 +1,7 @@
+C:\Users\Dana Perelmuter\source\repos\Mediator2\Mediator2\obj\Debug\Mediator2.csproj.AssemblyReference.cache
+C:\Users\Dana Perelmuter\source\repos\Mediator2\Mediator2\obj\Debug\Mediator2.csproj.CoreCompileInputs.cache
+C:\Users\Dana Perelmuter\source\repos\Mediator2\Mediator2\bin\Debug\Mediator2.exe.config
+C:\Users\Dana Perelmuter\source\repos\Mediator2\Mediator2\bin\Debug\Mediator2.exe
+C:\Users\Dana Perelmuter\source\repos\Mediator2\Mediator2\bin\Debug\Mediator2.pdb
+C:\Users\Dana Perelmuter\source\repos\Mediator2\Mediator2\obj\Debug\Mediator2.exe
+C:\Users\Dana Perelmuter\source\repos\Mediator2\Mediator2\obj\Debug\Mediator2.pdb
