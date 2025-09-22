@@ -1,0 +1,8 @@
+C:\Users\dpere\OneDrive\Desktop\patrones\chain-clase\chain-clase\bin\Debug\chain-clase.exe.config
+C:\Users\dpere\OneDrive\Desktop\patrones\chain-clase\chain-clase\bin\Debug\chain-clase.exe
+C:\Users\dpere\OneDrive\Desktop\patrones\chain-clase\chain-clase\bin\Debug\chain-clase.pdb
+C:\Users\dpere\OneDrive\Desktop\patrones\chain-clase\chain-clase\obj\Debug\chain-clase.csproj.AssemblyReference.cache
+C:\Users\dpere\OneDrive\Desktop\patrones\chain-clase\chain-clase\obj\Debug\chain-clase.csproj.CoreCompileInputs.cache
+C:\Users\dpere\OneDrive\Desktop\patrones\chain-clase\chain-clase\obj\Debug\chain-clase.exe
+C:\Users\dpere\OneDrive\Desktop\patrones\chain-clase\chain-clase\obj\Debug\chain-clase.pdb
+C:\Users\dpere\OneDrive\Desktop\patrones\chain-clase\chain-clase\obj\Debug\chain-clase.exe.config

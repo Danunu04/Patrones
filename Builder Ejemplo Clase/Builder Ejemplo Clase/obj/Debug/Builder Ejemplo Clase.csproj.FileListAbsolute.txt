@@ -1,0 +1,7 @@
+D:\Android Apps\Builder Ejemplo Clase\Builder Ejemplo Clase\obj\Debug\Builder Ejemplo Clase.csproj.AssemblyReference.cache
+D:\Android Apps\Builder Ejemplo Clase\Builder Ejemplo Clase\obj\Debug\Builder Ejemplo Clase.csproj.CoreCompileInputs.cache
+D:\Android Apps\Builder Ejemplo Clase\Builder Ejemplo Clase\bin\Debug\Builder Ejemplo Clase.exe.config
+D:\Android Apps\Builder Ejemplo Clase\Builder Ejemplo Clase\bin\Debug\Builder Ejemplo Clase.exe
+D:\Android Apps\Builder Ejemplo Clase\Builder Ejemplo Clase\bin\Debug\Builder Ejemplo Clase.pdb
+D:\Android Apps\Builder Ejemplo Clase\Builder Ejemplo Clase\obj\Debug\Builder Ejemplo Clase.exe
+D:\Android Apps\Builder Ejemplo Clase\Builder Ejemplo Clase\obj\Debug\Builder Ejemplo Clase.pdb

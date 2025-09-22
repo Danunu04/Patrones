@@ -1,0 +1,7 @@
+C:\Users\dpere\OneDrive\Desktop\patrones\Builder-Pc\Builder-Pc\bin\Debug\Builder-Pc.exe.config
+C:\Users\dpere\OneDrive\Desktop\patrones\Builder-Pc\Builder-Pc\bin\Debug\Builder-Pc.exe
+C:\Users\dpere\OneDrive\Desktop\patrones\Builder-Pc\Builder-Pc\bin\Debug\Builder-Pc.pdb
+C:\Users\dpere\OneDrive\Desktop\patrones\Builder-Pc\Builder-Pc\obj\Debug\Builder-Pc.csproj.AssemblyReference.cache
+C:\Users\dpere\OneDrive\Desktop\patrones\Builder-Pc\Builder-Pc\obj\Debug\Builder-Pc.csproj.CoreCompileInputs.cache
+C:\Users\dpere\OneDrive\Desktop\patrones\Builder-Pc\Builder-Pc\obj\Debug\Builder-Pc.exe
+C:\Users\dpere\OneDrive\Desktop\patrones\Builder-Pc\Builder-Pc\obj\Debug\Builder-Pc.pdb

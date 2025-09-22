@@ -1,0 +1,8 @@
+D:\Android Apps\prototype - Ejemplo clase\prototype - Ejemplo clase\bin\Debug\prototype - Ejemplo clase.exe.config
+D:\Android Apps\prototype - Ejemplo clase\prototype - Ejemplo clase\bin\Debug\prototype - Ejemplo clase.exe
+D:\Android Apps\prototype - Ejemplo clase\prototype - Ejemplo clase\bin\Debug\prototype - Ejemplo clase.pdb
+D:\Android Apps\prototype - Ejemplo clase\prototype - Ejemplo clase\obj\Debug\prototype - Ejemplo clase.csproj.AssemblyReference.cache
+D:\Android Apps\prototype - Ejemplo clase\prototype - Ejemplo clase\obj\Debug\prototype - Ejemplo clase.csproj.CoreCompileInputs.cache
+D:\Android Apps\prototype - Ejemplo clase\prototype - Ejemplo clase\obj\Debug\prototype - Ejemplo clase.exe
+D:\Android Apps\prototype - Ejemplo clase\prototype - Ejemplo clase\obj\Debug\prototype - Ejemplo clase.pdb
+D:\Android Apps\prototype - Ejemplo clase\prototype - Ejemplo clase\obj\Debug\prototype - Ejemplo clase.exe.config

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Android Apps\\prototype - Ejemplo clase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F3B2B5-B304-48AE-B403-0FEE488D5003}|prototype - Ejemplo clase\\prototype - Ejemplo clase.csproj|D:\\Android Apps\\prototype - Ejemplo clase\\prototype - ejemplo clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F3B2B5-B304-48AE-B403-0FEE488D5003}|prototype - Ejemplo clase\\prototype - Ejemplo clase.csproj|solutionrelative:prototype - ejemplo clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F3B2B5-B304-48AE-B403-0FEE488D5003}|prototype - Ejemplo clase\\prototype - Ejemplo clase.csproj|d:\\android apps\\prototype - ejemplo clase\\prototype - ejemplo clase\\fordprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F3B2B5-B304-48AE-B403-0FEE488D5003}|prototype - Ejemplo clase\\prototype - Ejemplo clase.csproj|solutionrelative:prototype - ejemplo clase\\fordprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F3B2B5-B304-48AE-B403-0FEE488D5003}|prototype - Ejemplo clase\\prototype - Ejemplo clase.csproj|D:\\Android Apps\\prototype - Ejemplo clase\\prototype - ejemplo clase\\autoprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F3B2B5-B304-48AE-B403-0FEE488D5003}|prototype - Ejemplo clase\\prototype - Ejemplo clase.csproj|solutionrelative:prototype - ejemplo clase\\autoprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F3B2B5-B304-48AE-B403-0FEE488D5003}|prototype - Ejemplo clase\\prototype - Ejemplo clase.csproj|d:\\android apps\\prototype - ejemplo clase\\prototype - ejemplo clase\\fiatprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F3B2B5-B304-48AE-B403-0FEE488D5003}|prototype - Ejemplo clase\\prototype - Ejemplo clase.csproj|solutionrelative:prototype - ejemplo clase\\fiatprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F3B2B5-B304-48AE-B403-0FEE488D5003}|prototype - Ejemplo clase\\prototype - Ejemplo clase.csproj|D:\\Android Apps\\prototype - Ejemplo clase\\prototype - ejemplo clase\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F3B2B5-B304-48AE-B403-0FEE488D5003}|prototype - Ejemplo clase\\prototype - Ejemplo clase.csproj|solutionrelative:prototype - ejemplo clase\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FiatPrototype.cs",
+              "DocumentMoniker": "D:\\Android Apps\\prototype - Ejemplo clase\\prototype - Ejemplo clase\\FiatPrototype.cs",
+              "RelativeDocumentMoniker": "prototype - Ejemplo clase\\FiatPrototype.cs",
+              "ToolTip": "D:\\Android Apps\\prototype - Ejemplo clase\\prototype - Ejemplo clase\\FiatPrototype.cs",
+              "RelativeToolTip": "prototype - Ejemplo clase\\FiatPrototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T22:28:35.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FordPrototype.cs",
+              "DocumentMoniker": "D:\\Android Apps\\prototype - Ejemplo clase\\prototype - Ejemplo clase\\FordPrototype.cs",
+              "RelativeDocumentMoniker": "prototype - Ejemplo clase\\FordPrototype.cs",
+              "ToolTip": "D:\\Android Apps\\prototype - Ejemplo clase\\prototype - Ejemplo clase\\FordPrototype.cs",
+              "RelativeToolTip": "prototype - Ejemplo clase\\FordPrototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:35:23.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Motor.cs",
+              "DocumentMoniker": "D:\\Android Apps\\prototype - Ejemplo clase\\prototype - Ejemplo clase\\Motor.cs",
+              "RelativeDocumentMoniker": "prototype - Ejemplo clase\\Motor.cs",
+              "ToolTip": "D:\\Android Apps\\prototype - Ejemplo clase\\prototype - Ejemplo clase\\Motor.cs",
+              "RelativeToolTip": "prototype - Ejemplo clase\\Motor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:28:14.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoPrototype.cs",
+              "DocumentMoniker": "D:\\Android Apps\\prototype - Ejemplo clase\\prototype - Ejemplo clase\\AutoPrototype.cs",
+              "RelativeDocumentMoniker": "prototype - Ejemplo clase\\AutoPrototype.cs",
+              "ToolTip": "D:\\Android Apps\\prototype - Ejemplo clase\\prototype - Ejemplo clase\\AutoPrototype.cs",
+              "RelativeToolTip": "prototype - Ejemplo clase\\AutoPrototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:26:35.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Android Apps\\prototype - Ejemplo clase\\prototype - Ejemplo clase\\Program.cs",
+              "RelativeDocumentMoniker": "prototype - Ejemplo clase\\Program.cs",
+              "ToolTip": "D:\\Android Apps\\prototype - Ejemplo clase\\prototype - Ejemplo clase\\Program.cs",
+              "RelativeToolTip": "prototype - Ejemplo clase\\Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAuwI8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:25:35.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\dpere\OneDrive\Desktop\patrones\bridge - Canal mensaje\bridge - Canal mensaje\bin\Debug\bridge - Canal mensaje.exe.config
+C:\Users\dpere\OneDrive\Desktop\patrones\bridge - Canal mensaje\bridge - Canal mensaje\bin\Debug\bridge - Canal mensaje.exe
+C:\Users\dpere\OneDrive\Desktop\patrones\bridge - Canal mensaje\bridge - Canal mensaje\bin\Debug\bridge - Canal mensaje.pdb
+C:\Users\dpere\OneDrive\Desktop\patrones\bridge - Canal mensaje\bridge - Canal mensaje\obj\Debug\bridge - Canal mensaje.csproj.AssemblyReference.cache
+C:\Users\dpere\OneDrive\Desktop\patrones\bridge - Canal mensaje\bridge - Canal mensaje\obj\Debug\bridge - Canal mensaje.csproj.CoreCompileInputs.cache
+C:\Users\dpere\OneDrive\Desktop\patrones\bridge - Canal mensaje\bridge - Canal mensaje\obj\Debug\bridge - Canal mensaje.exe
+C:\Users\dpere\OneDrive\Desktop\patrones\bridge - Canal mensaje\bridge - Canal mensaje\obj\Debug\bridge - Canal mensaje.pdb

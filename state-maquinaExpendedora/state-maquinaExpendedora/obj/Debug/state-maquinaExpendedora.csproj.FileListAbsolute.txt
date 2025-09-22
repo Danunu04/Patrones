@@ -1,0 +1,8 @@
+C:\Users\dpere\OneDrive\Desktop\patrones\state-maquinaExpendedora\state-maquinaExpendedora\bin\Debug\state-maquinaExpendedora.exe.config
+C:\Users\dpere\OneDrive\Desktop\patrones\state-maquinaExpendedora\state-maquinaExpendedora\bin\Debug\state-maquinaExpendedora.exe
+C:\Users\dpere\OneDrive\Desktop\patrones\state-maquinaExpendedora\state-maquinaExpendedora\bin\Debug\state-maquinaExpendedora.pdb
+C:\Users\dpere\OneDrive\Desktop\patrones\state-maquinaExpendedora\state-maquinaExpendedora\obj\Debug\state-maquinaExpendedora.csproj.AssemblyReference.cache
+C:\Users\dpere\OneDrive\Desktop\patrones\state-maquinaExpendedora\state-maquinaExpendedora\obj\Debug\state-maquinaExpendedora.csproj.CoreCompileInputs.cache
+C:\Users\dpere\OneDrive\Desktop\patrones\state-maquinaExpendedora\state-maquinaExpendedora\obj\Debug\state-maquinaExpendedora.exe
+C:\Users\dpere\OneDrive\Desktop\patrones\state-maquinaExpendedora\state-maquinaExpendedora\obj\Debug\state-maquinaExpendedora.pdb
+C:\Users\dpere\OneDrive\Desktop\patrones\state-maquinaExpendedora\state-maquinaExpendedora\obj\Debug\state-maquinaExpendedora.exe.config

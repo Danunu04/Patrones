@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\state-maquinaExpendedora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7630BFED-9006-44BC-8C7A-E0CEE300EA5A}|state-maquinaExpendedora\\state-maquinaExpendedora.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\state-maquinaexpendedora\\state-maquinaexpendedora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7630BFED-9006-44BC-8C7A-E0CEE300EA5A}|state-maquinaExpendedora\\state-maquinaExpendedora.csproj|solutionrelative:state-maquinaexpendedora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7630BFED-9006-44BC-8C7A-E0CEE300EA5A}|state-maquinaExpendedora\\state-maquinaExpendedora.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\state-maquinaexpendedora\\state-maquinaexpendedora\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7630BFED-9006-44BC-8C7A-E0CEE300EA5A}|state-maquinaExpendedora\\state-maquinaExpendedora.csproj|solutionrelative:state-maquinaexpendedora\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7630BFED-9006-44BC-8C7A-E0CEE300EA5A}|state-maquinaExpendedora\\state-maquinaExpendedora.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\state-maquinaexpendedora\\state-maquinaexpendedora\\sinmoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7630BFED-9006-44BC-8C7A-E0CEE300EA5A}|state-maquinaExpendedora\\state-maquinaExpendedora.csproj|solutionrelative:state-maquinaexpendedora\\sinmoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7630BFED-9006-44BC-8C7A-E0CEE300EA5A}|state-maquinaExpendedora\\state-maquinaExpendedora.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\state-maquinaexpendedora\\state-maquinaexpendedora\\conmoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7630BFED-9006-44BC-8C7A-E0CEE300EA5A}|state-maquinaExpendedora\\state-maquinaExpendedora.csproj|solutionrelative:state-maquinaexpendedora\\conmoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7630BFED-9006-44BC-8C7A-E0CEE300EA5A}|state-maquinaExpendedora\\state-maquinaExpendedora.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\state-maquinaexpendedora\\state-maquinaexpendedora\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7630BFED-9006-44BC-8C7A-E0CEE300EA5A}|state-maquinaExpendedora\\state-maquinaExpendedora.csproj|solutionrelative:state-maquinaexpendedora\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinMoneda.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\state-maquinaExpendedora\\state-maquinaExpendedora\\SinMoneda.cs",
+              "RelativeDocumentMoniker": "state-maquinaExpendedora\\SinMoneda.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\state-maquinaExpendedora\\state-maquinaExpendedora\\SinMoneda.cs",
+              "RelativeToolTip": "state-maquinaExpendedora\\SinMoneda.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:32:22.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConMoneda.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\state-maquinaExpendedora\\state-maquinaExpendedora\\ConMoneda.cs",
+              "RelativeDocumentMoniker": "state-maquinaExpendedora\\ConMoneda.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\state-maquinaExpendedora\\state-maquinaExpendedora\\ConMoneda.cs",
+              "RelativeToolTip": "state-maquinaExpendedora\\ConMoneda.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:31:08.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\state-maquinaExpendedora\\state-maquinaExpendedora\\Context.cs",
+              "RelativeDocumentMoniker": "state-maquinaExpendedora\\Context.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\state-maquinaExpendedora\\state-maquinaExpendedora\\Context.cs",
+              "RelativeToolTip": "state-maquinaExpendedora\\Context.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:28:51.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IState.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\state-maquinaExpendedora\\state-maquinaExpendedora\\IState.cs",
+              "RelativeDocumentMoniker": "state-maquinaExpendedora\\IState.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\state-maquinaExpendedora\\state-maquinaExpendedora\\IState.cs",
+              "RelativeToolTip": "state-maquinaExpendedora\\IState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:28:15.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\state-maquinaExpendedora\\state-maquinaExpendedora\\Program.cs",
+              "RelativeDocumentMoniker": "state-maquinaExpendedora\\Program.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\state-maquinaExpendedora\\state-maquinaExpendedora\\Program.cs",
+              "RelativeToolTip": "state-maquinaExpendedora\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:25:59.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

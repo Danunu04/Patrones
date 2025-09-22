@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\builder-pc\\pcbasico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|solutionrelative:builder-pc\\pcbasico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\builder-pc\\builder-pc\\pcpremiun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|solutionrelative:builder-pc\\pcpremiun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\builder-pc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|solutionrelative:builder-pc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\builder-pc\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|solutionrelative:builder-pc\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\builder-pc\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|solutionrelative:builder-pc\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\builder-pc\\builder-pc\\ram16gb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|solutionrelative:builder-pc\\ram16gb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\builder-pc\\builder-pc\\motherpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|solutionrelative:builder-pc\\motherpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\builder-pc\\builder-pc\\cpu-i9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|solutionrelative:builder-pc\\cpu-i9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\builder-pc\\interfaces\\pcbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|solutionrelative:builder-pc\\interfaces\\pcbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\builder-pc\\builder-pc\\cpu-i3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|solutionrelative:builder-pc\\cpu-i3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\builder-pc\\builder-pc\\mothermeh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|solutionrelative:builder-pc\\mothermeh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\builder-pc\\builder-pc\\ram8gb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|solutionrelative:builder-pc\\ram8gb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\builder-pc\\interfaces\\mother.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|solutionrelative:builder-pc\\interfaces\\mother.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\builder-pc\\interfaces\\ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|solutionrelative:builder-pc\\interfaces\\ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\builder-pc\\interfaces\\cpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF482DC-EFD2-426A-B104-C7D11BB6C2B4}|Builder-Pc\\Builder-Pc.csproj|solutionrelative:builder-pc\\interfaces\\cpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MotherPro.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\MotherPro.cs",
+              "RelativeDocumentMoniker": "Builder-Pc\\MotherPro.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\MotherPro.cs",
+              "RelativeToolTip": "Builder-Pc\\MotherPro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T22:10:06.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CPU-I9.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\CPU-I9.cs",
+              "RelativeDocumentMoniker": "Builder-Pc\\CPU-I9.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\CPU-I9.cs",
+              "RelativeToolTip": "Builder-Pc\\CPU-I9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T22:09:25.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ram16GB.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\Ram16GB.cs",
+              "RelativeDocumentMoniker": "Builder-Pc\\Ram16GB.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\Ram16GB.cs",
+              "RelativeToolTip": "Builder-Pc\\Ram16GB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T22:08:39.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PCPremiun.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\PCPremiun.cs",
+              "RelativeDocumentMoniker": "Builder-Pc\\PCPremiun.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\PCPremiun.cs",
+              "RelativeToolTip": "Builder-Pc\\PCPremiun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T22:08:01.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CPU-I3.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\CPU-I3.cs",
+              "RelativeDocumentMoniker": "Builder-Pc\\CPU-I3.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\CPU-I3.cs",
+              "RelativeToolTip": "Builder-Pc\\CPU-I3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T22:01:55.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MotherMeh.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\MotherMeh.cs",
+              "RelativeDocumentMoniker": "Builder-Pc\\MotherMeh.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\MotherMeh.cs",
+              "RelativeToolTip": "Builder-Pc\\MotherMeh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T22:01:10.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ram8GB.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\Ram8GB.cs",
+              "RelativeDocumentMoniker": "Builder-Pc\\Ram8GB.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\Ram8GB.cs",
+              "RelativeToolTip": "Builder-Pc\\Ram8GB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:31:51.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\Director.cs",
+              "RelativeDocumentMoniker": "Builder-Pc\\Director.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\Director.cs",
+              "RelativeToolTip": "Builder-Pc\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:31:30.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PCBasico.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\PCBasico.cs",
+              "RelativeDocumentMoniker": "Builder-Pc\\PCBasico.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\PCBasico.cs",
+              "RelativeToolTip": "Builder-Pc\\PCBasico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:29:53.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CPU.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\Interfaces\\CPU.cs",
+              "RelativeDocumentMoniker": "Builder-Pc\\Interfaces\\CPU.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\Interfaces\\CPU.cs",
+              "RelativeToolTip": "Builder-Pc\\Interfaces\\CPU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:24:42.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mother.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\Interfaces\\Mother.cs",
+              "RelativeDocumentMoniker": "Builder-Pc\\Interfaces\\Mother.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\Interfaces\\Mother.cs",
+              "RelativeToolTip": "Builder-Pc\\Interfaces\\Mother.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:24:09.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RAM.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\Interfaces\\RAM.cs",
+              "RelativeDocumentMoniker": "Builder-Pc\\Interfaces\\RAM.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\Interfaces\\RAM.cs",
+              "RelativeToolTip": "Builder-Pc\\Interfaces\\RAM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:22:59.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PC.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\PC.cs",
+              "RelativeDocumentMoniker": "Builder-Pc\\PC.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\PC.cs",
+              "RelativeToolTip": "Builder-Pc\\PC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:22:33.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PcBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\Interfaces\\PcBuilder.cs",
+              "RelativeDocumentMoniker": "Builder-Pc\\Interfaces\\PcBuilder.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\Interfaces\\PcBuilder.cs",
+              "RelativeToolTip": "Builder-Pc\\Interfaces\\PcBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:21:23.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\Program.cs",
+              "RelativeDocumentMoniker": "Builder-Pc\\Program.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\Builder-Pc\\Builder-Pc\\Program.cs",
+              "RelativeToolTip": "Builder-Pc\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAlwCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:20:23.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

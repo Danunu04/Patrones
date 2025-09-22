@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Android Apps\\Prototype-Formas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6C0B76-B293-4708-8A41-EDF175ADE8CA}|Prototype-Formas\\Prototype-Formas.csproj|d:\\android apps\\prototype-formas\\prototype-formas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6C0B76-B293-4708-8A41-EDF175ADE8CA}|Prototype-Formas\\Prototype-Formas.csproj|solutionrelative:prototype-formas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6C0B76-B293-4708-8A41-EDF175ADE8CA}|Prototype-Formas\\Prototype-Formas.csproj|d:\\android apps\\prototype-formas\\prototype-formas\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6C0B76-B293-4708-8A41-EDF175ADE8CA}|Prototype-Formas\\Prototype-Formas.csproj|solutionrelative:prototype-formas\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6C0B76-B293-4708-8A41-EDF175ADE8CA}|Prototype-Formas\\Prototype-Formas.csproj|d:\\android apps\\prototype-formas\\prototype-formas\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6C0B76-B293-4708-8A41-EDF175ADE8CA}|Prototype-Formas\\Prototype-Formas.csproj|solutionrelative:prototype-formas\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6C0B76-B293-4708-8A41-EDF175ADE8CA}|Prototype-Formas\\Prototype-Formas.csproj|d:\\android apps\\prototype-formas\\prototype-formas\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6C0B76-B293-4708-8A41-EDF175ADE8CA}|Prototype-Formas\\Prototype-Formas.csproj|solutionrelative:prototype-formas\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Prototype-Formas\\Prototype-Formas\\Circle.cs",
+              "RelativeDocumentMoniker": "Prototype-Formas\\Circle.cs",
+              "ToolTip": "D:\\Android Apps\\Prototype-Formas\\Prototype-Formas\\Circle.cs",
+              "RelativeToolTip": "Prototype-Formas\\Circle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T22:22:20.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Prototype-Formas\\Prototype-Formas\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Prototype-Formas\\Rectangle.cs",
+              "ToolTip": "D:\\Android Apps\\Prototype-Formas\\Prototype-Formas\\Rectangle.cs",
+              "RelativeToolTip": "Prototype-Formas\\Rectangle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T22:20:56.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Prototype-Formas\\Prototype-Formas\\Shape.cs",
+              "RelativeDocumentMoniker": "Prototype-Formas\\Shape.cs",
+              "ToolTip": "D:\\Android Apps\\Prototype-Formas\\Prototype-Formas\\Shape.cs",
+              "RelativeToolTip": "Prototype-Formas\\Shape.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T22:19:08.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Prototype-Formas\\Prototype-Formas\\Program.cs",
+              "RelativeDocumentMoniker": "Prototype-Formas\\Program.cs",
+              "ToolTip": "D:\\Android Apps\\Prototype-Formas\\Prototype-Formas\\Program.cs",
+              "RelativeToolTip": "Prototype-Formas\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T22:18:19.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

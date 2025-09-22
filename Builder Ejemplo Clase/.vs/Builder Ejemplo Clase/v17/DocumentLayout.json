@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Android Apps\\Builder Ejemplo Clase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|d:\\android apps\\builder ejemplo clase\\builder ejemplo clase\\interface\\llantas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\interface\\llantas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\endurobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\endurobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\pisterobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\pisterobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\motobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\motobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\scooterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\scooterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\interface\\yamaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\interface\\yamaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\carroceriacarbono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\carroceriacarbono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\carroceriaaluminio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\carroceriaaluminio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\carroceriahierro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\carroceriahierro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\interface\\carroceria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\interface\\carroceria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\llantas19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\llantas19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\llantas14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\llantas14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\llantas22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\llantas22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\motor500cc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\motor500cc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\motor250cc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\motor250cc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\motor50cc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\motor50cc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|D:\\Android Apps\\Builder Ejemplo Clase\\builder ejemplo clase\\interface\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2519D350-52E1-4D01-A386-73453A667E27}|Builder Ejemplo Clase\\Builder Ejemplo Clase.csproj|solutionrelative:builder ejemplo clase\\interface\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarroceriaCarbono.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\CarroceriaCarbono.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\CarroceriaCarbono.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\CarroceriaCarbono.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\CarroceriaCarbono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:43:05.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarroceriaAluminio.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\CarroceriaAluminio.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\CarroceriaAluminio.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\CarroceriaAluminio.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\CarroceriaAluminio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:42:15.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarroceriaHierro.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\CarroceriaHierro.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\CarroceriaHierro.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\CarroceriaHierro.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\CarroceriaHierro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:41:23.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Llantas19.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Llantas19.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\Llantas19.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Llantas19.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\Llantas19.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:40:22.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Program.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\Program.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Program.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:19:30.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MotoBuilder.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\MotoBuilder.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\MotoBuilder.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\MotoBuilder.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\MotoBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:23:43.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Llantas.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Interface\\Llantas.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\Interface\\Llantas.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Interface\\Llantas.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\Interface\\Llantas.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:27:35.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnduroBuilder.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\EnduroBuilder.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\EnduroBuilder.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\EnduroBuilder.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\EnduroBuilder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:47:41.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PisteroBuilder.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\PisteroBuilder.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\PisteroBuilder.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\PisteroBuilder.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\PisteroBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:49:27.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Moto.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\Moto.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Moto.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\Moto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:59:54.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScooterBuilder.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\ScooterBuilder.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\ScooterBuilder.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\ScooterBuilder.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\ScooterBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:33:07.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Llantas14.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Llantas14.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\Llantas14.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Llantas14.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\Llantas14.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:39:51.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Llantas22.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Llantas22.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\Llantas22.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Llantas22.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\Llantas22.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:38:41.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Motor500cc.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Motor500cc.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\Motor500cc.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Motor500cc.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\Motor500cc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:36:56.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Yamaja.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Interface\\Yamaja.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\Interface\\Yamaja.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Interface\\Yamaja.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\Interface\\Yamaja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:21:19.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Motor250cc.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Motor250cc.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\Motor250cc.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Motor250cc.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\Motor250cc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:35:55.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Motor50cc.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Motor50cc.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\Motor50cc.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Motor50cc.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\Motor50cc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:34:28.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Carroceria.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Interface\\Carroceria.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\Interface\\Carroceria.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Interface\\Carroceria.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\Interface\\Carroceria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:29:28.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Motor.cs",
+              "DocumentMoniker": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Interface\\Motor.cs",
+              "RelativeDocumentMoniker": "Builder Ejemplo Clase\\Interface\\Motor.cs",
+              "ToolTip": "D:\\Android Apps\\Builder Ejemplo Clase\\Builder Ejemplo Clase\\Interface\\Motor.cs",
+              "RelativeToolTip": "Builder Ejemplo Clase\\Interface\\Motor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T23:25:21.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

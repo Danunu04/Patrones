@@ -1,0 +1,8 @@
+C:\Users\dpere\OneDrive\Desktop\patrones\Strategy-CalcDescuentos\Strategy-CalcDescuentos\bin\Debug\Strategy-CalcDescuentos.exe.config
+C:\Users\dpere\OneDrive\Desktop\patrones\Strategy-CalcDescuentos\Strategy-CalcDescuentos\bin\Debug\Strategy-CalcDescuentos.exe
+C:\Users\dpere\OneDrive\Desktop\patrones\Strategy-CalcDescuentos\Strategy-CalcDescuentos\bin\Debug\Strategy-CalcDescuentos.pdb
+C:\Users\dpere\OneDrive\Desktop\patrones\Strategy-CalcDescuentos\Strategy-CalcDescuentos\obj\Debug\Strategy-CalcDescuentos.csproj.AssemblyReference.cache
+C:\Users\dpere\OneDrive\Desktop\patrones\Strategy-CalcDescuentos\Strategy-CalcDescuentos\obj\Debug\Strategy-CalcDescuentos.csproj.CoreCompileInputs.cache
+C:\Users\dpere\OneDrive\Desktop\patrones\Strategy-CalcDescuentos\Strategy-CalcDescuentos\obj\Debug\Strategy-CalcDescuentos.exe
+C:\Users\dpere\OneDrive\Desktop\patrones\Strategy-CalcDescuentos\Strategy-CalcDescuentos\obj\Debug\Strategy-CalcDescuentos.pdb
+C:\Users\dpere\OneDrive\Desktop\patrones\Strategy-CalcDescuentos\Strategy-CalcDescuentos\obj\Debug\Strategy-CalcDescuentos.exe.config

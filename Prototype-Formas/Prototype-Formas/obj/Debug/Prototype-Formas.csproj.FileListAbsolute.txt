@@ -1,0 +1,7 @@
+D:\Android Apps\Prototype-Formas\Prototype-Formas\obj\Debug\Prototype-Formas.csproj.AssemblyReference.cache
+D:\Android Apps\Prototype-Formas\Prototype-Formas\obj\Debug\Prototype-Formas.csproj.CoreCompileInputs.cache
+D:\Android Apps\Prototype-Formas\Prototype-Formas\bin\Debug\Prototype-Formas.exe.config
+D:\Android Apps\Prototype-Formas\Prototype-Formas\bin\Debug\Prototype-Formas.exe
+D:\Android Apps\Prototype-Formas\Prototype-Formas\bin\Debug\Prototype-Formas.pdb
+D:\Android Apps\Prototype-Formas\Prototype-Formas\obj\Debug\Prototype-Formas.exe
+D:\Android Apps\Prototype-Formas\Prototype-Formas\obj\Debug\Prototype-Formas.pdb

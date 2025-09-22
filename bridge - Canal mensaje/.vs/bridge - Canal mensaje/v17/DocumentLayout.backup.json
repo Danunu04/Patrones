@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\bridge - Canal mensaje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52816EA7-5EAD-42A1-86B2-1DDA7F5DA11C}|bridge - Canal mensaje\\bridge - Canal mensaje.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\bridge - canal mensaje\\bridge - canal mensaje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52816EA7-5EAD-42A1-86B2-1DDA7F5DA11C}|bridge - Canal mensaje\\bridge - Canal mensaje.csproj|solutionrelative:bridge - canal mensaje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52816EA7-5EAD-42A1-86B2-1DDA7F5DA11C}|bridge - Canal mensaje\\bridge - Canal mensaje.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\bridge - canal mensaje\\bridge - canal mensaje\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52816EA7-5EAD-42A1-86B2-1DDA7F5DA11C}|bridge - Canal mensaje\\bridge - Canal mensaje.csproj|solutionrelative:bridge - canal mensaje\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52816EA7-5EAD-42A1-86B2-1DDA7F5DA11C}|bridge - Canal mensaje\\bridge - Canal mensaje.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\bridge - canal mensaje\\bridge - canal mensaje\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52816EA7-5EAD-42A1-86B2-1DDA7F5DA11C}|bridge - Canal mensaje\\bridge - Canal mensaje.csproj|solutionrelative:bridge - canal mensaje\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52816EA7-5EAD-42A1-86B2-1DDA7F5DA11C}|bridge - Canal mensaje\\bridge - Canal mensaje.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\bridge - canal mensaje\\bridge - canal mensaje\\recordatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52816EA7-5EAD-42A1-86B2-1DDA7F5DA11C}|bridge - Canal mensaje\\bridge - Canal mensaje.csproj|solutionrelative:bridge - canal mensaje\\recordatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52816EA7-5EAD-42A1-86B2-1DDA7F5DA11C}|bridge - Canal mensaje\\bridge - Canal mensaje.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\bridge - canal mensaje\\bridge - canal mensaje\\inotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52816EA7-5EAD-42A1-86B2-1DDA7F5DA11C}|bridge - Canal mensaje\\bridge - Canal mensaje.csproj|solutionrelative:bridge - canal mensaje\\inotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52816EA7-5EAD-42A1-86B2-1DDA7F5DA11C}|bridge - Canal mensaje\\bridge - Canal mensaje.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\bridge - canal mensaje\\bridge - canal mensaje\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52816EA7-5EAD-42A1-86B2-1DDA7F5DA11C}|bridge - Canal mensaje\\bridge - Canal mensaje.csproj|solutionrelative:bridge - canal mensaje\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52816EA7-5EAD-42A1-86B2-1DDA7F5DA11C}|bridge - Canal mensaje\\bridge - Canal mensaje.csproj|c:\\users\\dpere\\onedrive\\desktop\\patrones\\bridge - canal mensaje\\bridge - canal mensaje\\icanal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52816EA7-5EAD-42A1-86B2-1DDA7F5DA11C}|bridge - Canal mensaje\\bridge - Canal mensaje.csproj|solutionrelative:bridge - canal mensaje\\icanal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alerta.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\bridge - Canal mensaje\\bridge - Canal mensaje\\Alerta.cs",
+              "RelativeDocumentMoniker": "bridge - Canal mensaje\\Alerta.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\bridge - Canal mensaje\\bridge - Canal mensaje\\Alerta.cs",
+              "RelativeToolTip": "bridge - Canal mensaje\\Alerta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T23:03:36.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Recordatorio.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\bridge - Canal mensaje\\bridge - Canal mensaje\\Recordatorio.cs",
+              "RelativeDocumentMoniker": "bridge - Canal mensaje\\Recordatorio.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\bridge - Canal mensaje\\bridge - Canal mensaje\\Recordatorio.cs*",
+              "RelativeToolTip": "bridge - Canal mensaje\\Recordatorio.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:57:36.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SMS.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\bridge - Canal mensaje\\bridge - Canal mensaje\\SMS.cs",
+              "RelativeDocumentMoniker": "bridge - Canal mensaje\\SMS.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\bridge - Canal mensaje\\bridge - Canal mensaje\\SMS.cs*",
+              "RelativeToolTip": "bridge - Canal mensaje\\SMS.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:56:18.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\bridge - Canal mensaje\\bridge - Canal mensaje\\Email.cs",
+              "RelativeDocumentMoniker": "bridge - Canal mensaje\\Email.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\bridge - Canal mensaje\\bridge - Canal mensaje\\Email.cs*",
+              "RelativeToolTip": "bridge - Canal mensaje\\Email.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:54:31.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotificacion.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\bridge - Canal mensaje\\bridge - Canal mensaje\\INotificacion.cs",
+              "RelativeDocumentMoniker": "bridge - Canal mensaje\\INotificacion.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\bridge - Canal mensaje\\bridge - Canal mensaje\\INotificacion.cs",
+              "RelativeToolTip": "bridge - Canal mensaje\\INotificacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:53:38.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICanal.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\bridge - Canal mensaje\\bridge - Canal mensaje\\ICanal.cs",
+              "RelativeDocumentMoniker": "bridge - Canal mensaje\\ICanal.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\bridge - Canal mensaje\\bridge - Canal mensaje\\ICanal.cs*",
+              "RelativeToolTip": "bridge - Canal mensaje\\ICanal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:51:52.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\bridge - Canal mensaje\\bridge - Canal mensaje\\Program.cs",
+              "RelativeDocumentMoniker": "bridge - Canal mensaje\\Program.cs",
+              "ToolTip": "C:\\Users\\dpere\\OneDrive\\Desktop\\patrones\\bridge - Canal mensaje\\bridge - Canal mensaje\\Program.cs*",
+              "RelativeToolTip": "bridge - Canal mensaje\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwD0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T22:48:54.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
